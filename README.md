@@ -18,9 +18,10 @@ Através de um conjunto de dados contendo informações sobre as contas dos clie
 - devices_connected: Quantidade de dispositivos conectados à conta.
 -cchurned: Se o cliente cancelou a assinatura (1) ou não (0).
 
-# Modelagem de Dados
+# Bibliotecas
 
-# Tecnologias Utilizadas
-- Python: Para manipulação de dados, criação do modelo de machine learning e pré-processamento.
-- Scikit-learn: Para construção do modelo de classificação.
-- Pandas/Numpy: Para análise e manipulação de dados.
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
