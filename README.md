@@ -45,7 +45,7 @@ O conjunto de dados fornecido inclui informações sobre os clientes de uma plat
 Após o treinamento e a avaliação dos modelos, os principais resultados obtidos foram:
 
 - **Regressão Logística**:
-  Acurácia: X%
+  Acurácia: 81.57%
 
 - **Random Forest (com Tuning)**:
   Acurácia: X%
