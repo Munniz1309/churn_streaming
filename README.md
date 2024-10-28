@@ -48,7 +48,7 @@ Após o treinamento e a avaliação dos modelos, os principais resultados obtido
   Acurácia: 81.57%
 
 - **Random Forest (com Tuning)**:
-  Acurácia: X%
+  Acurácia: 86.14%
 
 Esses resultados destacam as características que impactam o churn e ajudam a identificar os usuários com maior probabilidade de cancelar a assinatura, permitindo à empresa desenvolver estratégias para aumentar a retenção.
 
